@@ -1,0 +1,6 @@
+Credentials cache: API:16137
+        Principal: svilau@42.FR
+
+  Issued                Expires               Principal
+Oct 16 00:58:50 2015  Oct 23 00:58:44 2015  krbtgt/42.FR@42.FR
+Oct 16 01:02:01 2015  Oct 23 00:58:44 2015  host/vogsphere-frontend-normal-1.42.fr@42.FR
